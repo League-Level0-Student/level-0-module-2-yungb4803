@@ -27,7 +27,6 @@ public class SafeCracker {
 		
 		}
 		
-
 	}
 
 	static void tryCode(int guess) {
